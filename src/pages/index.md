@@ -14,6 +14,7 @@ mainpitch:
 
     Years of strong experience in implementing continuous integration, continuous delivery, DevOps release engineering & building automation tools, and processes. Implemented customized full-stack test automation across complex systems.
 
+
     Proven experience in Agile coaching and improving lead time by improving ways of working.
 
     Exceptional leadership skills with experience spearheading multiple Greenfield projects and managing the full life cycle of delivery. Proven ability to define best practices for highly visible change programs.
